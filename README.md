@@ -3,7 +3,7 @@
 - 👀 I’m interested in data analysis, data visualization, and machine learning.
 - 🌱 I’m currently learning Python for data analytics and exploring tools like Power BI and MySQL.
 - 💞️ I’m looking to collaborate on projects related to data analytics, dashboard creation, and real-time data insights.
-- 📫 How to reach me:
+- 📫 How to reach me: samyukthaelanchezhian@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy solving SQL problems and am always on the lookout for interesting datasets to analyze!
 
