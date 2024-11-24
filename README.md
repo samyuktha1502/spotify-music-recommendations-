@@ -1,5 +1,6 @@
 **🎧 Spotify Data Analysis Project**
 
+'![image](https://github.com/user-attachments/assets/60d4dff3-47b6-4c03-b614-e0c777bde925)
 
 This project dives into Spotify music data, exploring trends, analyzing features, and extracting meaningful insights to understand what makes a song popular and uncover patterns in music consumption.
 
